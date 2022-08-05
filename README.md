@@ -1,5 +1,5 @@
 <h1 align="center">Hello ✨ I'm Beyza</h1>
-- i’m currently learning **html, css and js!**
+- i’m **currently learning html, css and js!**
 
 - i'm a **simple gamer and a person who really doesn't know how to code. i just find this... cool.**
 
