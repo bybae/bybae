@@ -1,6 +1,6 @@
 <h1 align="center">Hello ✨ I'm Beyza</h1>
 
-- i’m a **currently learning html, css and js!**
+- i’m **currently learning html, css and js!**
 
 - and i'm a **simple gamer and a person who really doesn't know how to code. i just find this... cool. (i said im currently learning:>)** 💕 
 
