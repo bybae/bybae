@@ -2,7 +2,7 @@
 
 - i’m a **currently learning html, css and js!**
 
-- i'm a **simple gamer and a person who really doesn't know how to code. i just find this... cool. (i said im currently learning:>)**
+- and i'm a **simple gamer and a person who really doesn't know how to code. i just find this... cool. (i said im currently learning:>)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
