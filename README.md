@@ -1,10 +1,7 @@
 <h1 align="center">Hello ✨ I'm Beyza</h1>
  
 
-💕<p>
-<h4 style="color: black;
-    text-decoration: underline wavy plum">my goal is;</h4><br>
-</p>
+💕 my goal is; <br>
 to be a Full-Stack Developer. for that, i’m currently learning **html, css & js!**
 
 💕 'bout me; <br>
