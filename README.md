@@ -1,8 +1,8 @@
 <h1 align="center">Hello ✨ I'm Beyza</h1>
 
-- i’m **currently learning html, css and js!**
+- i’m currently **learning html, css and js!**
 
-- and i'm a **simple gamer and a person who really doesn't know how to code. i just find this... cool. (i said im currently learning:>)** 💕 
+- i've been too keen on coding since i was little. but the circumstances took me away from it. now i'm back with more enthusiasm. 💕 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
