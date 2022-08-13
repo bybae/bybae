@@ -1,7 +1,10 @@
 <h1 align="center">Hello ✨ I'm Beyza</h1>
  
 
-💕 my goal is; <br>
+💕<p>
+<h4 style="color: black;
+    text-decoration: underline wavy plum">my goal is;</h4><br>
+</p>
 to be a Full-Stack Developer. for that, i’m currently learning **html, css & js!**
 
 💕 'bout me; <br>
@@ -9,8 +12,8 @@ i've been too keen on coding since i was little. but the circumstances took me a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@kvitravenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kvitravenn" height="30" width="40" add target="_blank"/></a>
-<a href="https://instagram.com/kvxtravn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kvxtravn" height="30" width="40" add target="_blank"/></a>
+<a href="https://twitter.com/@kvitravenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kvitravenn" height="30" width="40"/></a>
+<a href="https://instagram.com/kvxtravn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kvxtravn" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
