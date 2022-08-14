@@ -21,11 +21,6 @@ i've been too keen on coding since i was little. but the circumstances took me a
 
 <p align="left"> <a href="https://twitter.com/kvitravenn" target="blank"><img src="https://img.shields.io/twitter/follow/kvitravenn?logo=twitter&style=for-the-badge" alt="kvitravenn" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kvitravenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvitravenn" height="30" width="40" /></a>
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bybae&show_icons=true&locale=en" alt="bybae" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bybae&" alt="bybae" /></p>
