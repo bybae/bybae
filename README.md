@@ -24,5 +24,5 @@ to be a Full-Stack Developer. for that, i’m currently learning **html, css, ja
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bybae&show_icons=true&locale=en" alt="bybae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bybae&" alt="bybae" /></p>
+
 
