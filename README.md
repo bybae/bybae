@@ -10,8 +10,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bybae&show_icons=true&locale=en&layout=compact" alt="bybae" /></p>
 
-<p align="left"> <a href="https://twitter.com/kvitravenn" target="blank"><img src="https://img.shields.io/twitter/follow/kvitravenn?logo=twitter&style=for-the-badge" alt="kvitravenn" /></a> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bybae&show_icons=true&locale=en" alt="bybae" /></p>
-
+<p align="left"> <a href="https://twitter.com/kvitravenn" target="blank"><img src="https://img.shields.io/twitter/follow/kvitravenn?logo=twitter&style=for-the-badge" alt="kvitravenn"
 
 
 
